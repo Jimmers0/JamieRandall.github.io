@@ -5,4 +5,4 @@
 5. Push everything to your repo: `git push origin master`
 6. Navigate to `<your-github-username>.github.io`
 7. Make all the necessary changes with your info, your colors, your images, etc.
-8. Push up the changes. When you push up, the link will automatically update with your new information, though it make take a little bit.
+8. Push up the changes. When you push up, the link will automatically update with your new information, though it make take a little bit. ok
